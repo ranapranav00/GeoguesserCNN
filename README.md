@@ -1,1 +1,2 @@
 # GeoguesserCNN
+updating readme
